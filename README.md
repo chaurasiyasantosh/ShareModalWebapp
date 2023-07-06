@@ -1,7 +1,7 @@
 # ShareModalWebapp
 
 
-<a  class="button" href="https://chaurasiyasantosh.github.io/ShareModalWebapp/" target="_blank">Visit Site</a>
+<button class="button"><a href="https://chaurasiyasantosh.github.io/ShareModalWebapp/" target="_blank">Visit Site</a></button>
 
 .button {
   font: bold 11px Arial;
